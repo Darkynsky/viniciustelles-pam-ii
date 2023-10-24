@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "100358548409",
+    "firebase_url": "https://cadastrocliente-8b4fd-default-rtdb.firebaseio.com",
+    "project_id": "cadastrocliente-8b4fd",
+    "storage_bucket": "cadastrocliente-8b4fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100358548409:android:874d5eb8995672e6f4e468",
+        "android_client_info": {
+          "package_name": "com.example.cadastrocliente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_x9WomVSl2eH2--46B3jg_ys9sZDLLL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
