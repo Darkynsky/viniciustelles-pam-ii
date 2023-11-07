@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "969050821221",
+    "firebase_url": "https://nsacamargoaranha-default-rtdb.firebaseio.com",
+    "project_id": "nsacamargoaranha",
+    "storage_bucket": "nsacamargoaranha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969050821221:android:11e4c2f2a19ee8f38b2c8c",
+        "android_client_info": {
+          "package_name": "com.example.cadastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEoZaNIvK2vbtvsTe9tDijro8Xit0fSYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
